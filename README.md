@@ -44,7 +44,7 @@
 
 ## 📫 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-jagwinder%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagwinder@example.com)  
+[![Email](https://img.shields.io/badge/Email-jagwindergill408.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagwinder@example.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jagwinder%20Gill-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)  
 
 ---
